@@ -45,7 +45,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Biggboss7/Rock-Paper-Scissors-Game/
-- Live Site URL: https://biggboss7.github.io/Rock-Paper-Scissors-Game/
+- Live Site URL: https://biggboss7.github.io/Rock-Paper-Scissors-Game/](https://superlative-daifuku-f1ac8a.netlify.app
 
 ## My process
 
